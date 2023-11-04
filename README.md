@@ -1,4 +1,4 @@
-# EX-01-1b   TO EQUAL OR NOT BY USING IF-ELSE STATEMENT
+# EX-1(B)   TO EQUAL OR NOT BY USING IF-ELSE STATEMENT
 
 ## AIM:
    To write a C program to read x, y value and print x==y or x!=y using if-else.
